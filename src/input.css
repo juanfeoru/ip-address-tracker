@@ -3,4 +3,6 @@
 @theme {
   --color-gray-950: hsl(0, 0%, 17%);
   --color-gray-400: hsl(0, 0%, 58%);
+
+  --font-rubik: 'Rubik', sans-serif;
 }
